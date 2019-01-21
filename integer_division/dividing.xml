@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.1" class="java.beans.XMLDecoder">
+ <object class="ua.com.foxminded.division.maths.Step">
+  <void property="difference">
+   <int>3</int>
+  </void>
+  <void property="divider">
+   <int>4</int>
+  </void>
+  <void property="globalResult">
+   <int>196</int>
+  </void>
+  <void property="subtract">
+   <int>4</int>
+  </void>
+  <void property="subtrahend">
+   <int>785</int>
+  </void>
+ </object>
+ <object class="ua.com.foxminded.division.maths.Step">
+  <void property="difference">
+   <int>2</int>
+  </void>
+  <void property="subtract">
+   <int>36</int>
+  </void>
+  <void property="subtrahend">
+   <int>38</int>
+  </void>
+ </object>
+ <object class="ua.com.foxminded.division.maths.Step">
+  <void property="difference">
+   <int>1</int>
+  </void>
+  <void property="offsetOfSubtract">
+   <int>1</int>
+  </void>
+  <void property="offsetOfSubtrahend">
+   <int>1</int>
+  </void>
+  <void property="remainderOffset">
+   <int>2</int>
+  </void>
+  <void property="subtract">
+   <int>24</int>
+  </void>
+  <void property="subtrahend">
+   <int>25</int>
+  </void>
+ </object>
+</java>

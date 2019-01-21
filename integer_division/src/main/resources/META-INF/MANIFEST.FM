@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: ua/com/foxminded/division/console/Input.jar
+Main-Class: ua.com.foxminded.division.console.Input

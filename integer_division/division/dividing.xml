@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.1" class="java.beans.XMLDecoder">
+ <object class="ua.com.foxminded.division.maths.Step">
+  <void property="difference">
+   <int>1</int>
+  </void>
+  <void property="divider">
+   <int>2</int>
+  </void>
+  <void property="globalResult">
+   <int>273</int>
+  </void>
+  <void property="printStep">
+   <string>_547|2&#13;
+ 4  |---&#13;
+ -  |273&#13;
+</string>
+  </void>
+  <void property="subtract">
+   <int>4</int>
+  </void>
+  <void property="subtrahend">
+   <int>547</int>
+  </void>
+ </object>
+ <object class="ua.com.foxminded.division.maths.Step">
+  <void property="printStep">
+   <string>_14&#13;
+ 14&#13;
+ --&#13;
+</string>
+  </void>
+  <void property="subtract">
+   <int>14</int>
+  </void>
+  <void property="subtrahend">
+   <int>14</int>
+  </void>
+ </object>
+ <object class="ua.com.foxminded.division.maths.Step">
+  <void property="difference">
+   <int>1</int>
+  </void>
+  <void property="offsetOfSubtract">
+   <int>2</int>
+  </void>
+  <void property="offsetOfSubtrahend">
+   <int>2</int>
+  </void>
+  <void property="printStep">
+   <string>  _7&#13;
+   6&#13;
+   -&#13;
+   1&#13;
+</string>
+  </void>
+  <void property="remainderOffset">
+   <int>2</int>
+  </void>
+  <void property="subtract">
+   <int>6</int>
+  </void>
+  <void property="subtrahend">
+   <int>7</int>
+  </void>
+ </object>
+</java>
